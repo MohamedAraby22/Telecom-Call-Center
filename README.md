@@ -16,7 +16,7 @@ This section analyzes call acceptance and rejection rates to identify areas for 
 * Average speed of answer
  * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-[![Agent Call Performance](images/agent_performance.png)](link_to_agent_performance_dashboard_if_applicable) 
+[![Agent Call Performance](https://github.com/MohamedAraby22/Telecom-Call-Center/blob/main/1.png)](https://github.com/MohamedAraby22/Telecom-Call-Center/blob/main/1.png) 
 
 ## Part 2: Customer Churn Analysis
 
@@ -28,7 +28,7 @@ This section examines customer churn trends to help identify at-risk customers a
 * Customer account information: how long as a customer, contract, payment method and monthly charges 
 * Demographic info about customers – gender, age range, and if they have partners and dependents
 
-[![CChurn](images/customer_churn.png)](link_to_customer_churn_dashboard_if_applicable)  
+[![Customer Churn](https://github.com/MohamedAraby22/Telecom-Call-Center/blob/main/2.png)](https://github.com/MohamedAraby22/Telecom-Call-Center/blob/main/2.png)
 
 ## Conclusion
 
